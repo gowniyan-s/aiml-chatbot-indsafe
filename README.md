@@ -1,9 +1,8 @@
 # aiml-chatbot-indsafe
 Industry safety Chatbot 
 
-
-CAPSTONE PROJECT - 
-1. PROBLEM STATEMENT
+**CAPSTONE PROJECT - **
+1. PROBLEM STATEMENT<br/>
   	**•DOMAIN:** Industrial safety. NLP based Chatbot.<br/>
   	**•CONTEXT:** The  database  comes  fromone  of  the  biggest  industry  in  Brazil  and  in  the  world.  It  is  an  urgent  need  for  industries/companies  around  the globe to understand why employees still suffer some injuries/accidents in plants. Sometimes they also die in such environment.<br/>
   	**•DATA DESCRIPTION:**
