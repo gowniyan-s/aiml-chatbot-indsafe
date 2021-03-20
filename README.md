@@ -1,5 +1,5 @@
-# aiml-chatbot-indsafe
-Industry safety Chatbot 
+# Industry safety Chatbot
+ 
 
 **CAPSTONE PROJECT - **
 1. PROBLEM STATEMENT<br/>
