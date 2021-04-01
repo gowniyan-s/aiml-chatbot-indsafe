@@ -5,12 +5,6 @@
 * [Data Source: Kaggle](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data)
 ___
 
-## Procedure
-1. Start a virtual environment and install requirements
-3. Build sentiment classifier
-4. Write `app.py` which is the API application that will be deployed
-5. Update requirements.txt as you write the code
-6. Test the API
 
 
 ## File Structure
@@ -32,6 +26,7 @@ ___
 python app.py
 ```
 
+If any changes need to be made in model make changes in buildmodel and uncomment the build_model call from app.py and run app.py again
 
 2. In a new terminal window, use HTTPie to make a GET request at the URL of the API.
 
