@@ -26,7 +26,7 @@ ___
 python app.py
 ```
 
-If any changes need to be made in model make changes in buildmodel and uncomment the build_model call from app.py and run app.py again
+If any changes need to be made in model make changes in build_model and uncomment the build_model call(model.build_model()) in  app.py and run app.py again (python app.py)
 
 2. In a new terminal window, use HTTPie to make a GET request at the URL of the API.
 
