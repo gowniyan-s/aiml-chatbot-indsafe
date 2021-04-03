@@ -26,6 +26,12 @@ ___
 
 
 ## Testing the API
+0. FOr any model changes - change build_model.py
+
+```bash
+python build_model.py
+```
+
 1. Run the Flask API locally for testing. Go to directory with `app.py`.
 
 ```bash
