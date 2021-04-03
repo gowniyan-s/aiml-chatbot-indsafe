@@ -4,3 +4,7 @@ sklearn
 numpy
 scipy
 pandas
+fasttext
+gensim
+flask
+flask_restful
